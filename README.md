@@ -62,7 +62,6 @@ catkin init
 # catkin config --cmake-args -DCMAKE_BUILD_TYPE=Release
 # On Ubuntu 16.04:
 catkin config --cmake-args -DCMAKE_BUILD_TYPE=Release -DGTSAM_USE_SYSTEM_EIGEN=ON
-catkin config --merge-devel
 
 # Add workspace to bashrc for automatic sourcing of workspace.
 echo 'source ~/catkin_ws/devel/setup.bash' >> ~/.bashrc
