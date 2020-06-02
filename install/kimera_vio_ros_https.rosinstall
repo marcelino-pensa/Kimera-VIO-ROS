@@ -50,7 +50,7 @@
     # Last tested commit: 2efbc572940dd56b8c6caf6d159cd7afd390d28e
 - git:
     local-name: Kimera-VIO-ROS
-    uri: https://github.com/MIT-SPARK/Kimera-VIO-ROS.git
+    uri: https://github.com/marcelino-pensa/Kimera-VIO-ROS.git
     version: master
 - git:
     local-name: glog_catkin
