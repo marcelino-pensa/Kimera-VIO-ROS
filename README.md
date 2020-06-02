@@ -89,7 +89,7 @@ Finally, compile:
 
 ```bash
 # Compile code
-catkin build
+catkin build --mem-limit 28G
 
 # Refresh workspace
 source ~/catkin_ws/devel/setup.bash
